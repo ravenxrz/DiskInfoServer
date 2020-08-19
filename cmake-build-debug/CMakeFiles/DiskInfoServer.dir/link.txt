@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -rdynamic CMakeFiles/DiskInfoServer.dir/server_main.cpp.o CMakeFiles/DiskInfoServer.dir/Server.cpp.o CMakeFiles/DiskInfoServer.dir/DiskInfoGetter.cpp.o CMakeFiles/DiskInfoServer.dir/test/client_main.cpp.o -o DiskInfoServer 
