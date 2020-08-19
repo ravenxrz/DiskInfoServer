@@ -1,0 +1,15 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/raven/Projects/N501-DiskInfoServer
+-- Configuring done
+CMake Error: Cannot open file for write: /home/raven/Projects/N501-DiskInfoServer/cmake-build-debug/CMakeFiles/test.dir/build.make.tmp
+CMake Error: : System Error: Permission denied
+CMake Error: Cannot open file for write: /home/raven/Projects/N501-DiskInfoServer/cmake-build-debug/CMakeFiles/test.dir/flags.make.tmp
+CMake Error: : System Error: Permission denied
+CMake Error: Cannot open file for write: /home/raven/Projects/N501-DiskInfoServer/cmake-build-debug/CMakeFiles/test.dir/link.txt.tmp
+CMake Error: : System Error: Permission denied
+CMake Error: Could not create /home/raven/Projects/N501-DiskInfoServer/cmake-build-debug/CMakeFiles/test.dir/cmake_clean.cmake
+CMake Error: Cannot open file for write: /home/raven/Projects/N501-DiskInfoServer/cmake-build-debug/CMakeFiles/test.dir/DependInfo.cmake.tmp
+CMake Error: : System Error: Permission denied
+-- Generating done
+CMake Error: Cannot open file for write: /home/raven/Projects/N501-DiskInfoServer/cmake-build-debug/CMakeFiles/test.dir/progress.make.tmp
+CMake Error: : System Error: Permission denied
+CMake Generate step failed.  Build files cannot be regenerated correctly.

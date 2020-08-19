@@ -1,0 +1,5 @@
+/home/raven/Projects/N501-DiskInfoServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/raven/Projects/N501-DiskInfoServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/raven/Projects/N501-DiskInfoServer/cmake-build-debug/CMakeFiles/test.dir
+/home/raven/Projects/N501-DiskInfoServer/cmake-build-debug/CMakeFiles/client.dir
+/home/raven/Projects/N501-DiskInfoServer/cmake-build-debug/CMakeFiles/server.dir

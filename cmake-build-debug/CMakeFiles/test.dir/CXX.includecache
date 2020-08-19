@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raven/Projects/N501-DiskInfoServer/DiskData.h
+linux/nvme.h
+/home/raven/Projects/N501-DiskInfoServer/linux/nvme.h
+
+/home/raven/Projects/N501-DiskInfoServer/DiskInfoGetter.cpp
+DiskInfoGetter.h
+/home/raven/Projects/N501-DiskInfoServer/DiskInfoGetter.h
+unistd.h
+-
+fcntl.h
+-
+cstdio
+-
+cstring
+-
+sys/ioctl.h
+-
+
+/home/raven/Projects/N501-DiskInfoServer/DiskInfoGetter.h
+linux/nvme.h
+/home/raven/Projects/N501-DiskInfoServer/linux/nvme.h
+DiskData.h
+/home/raven/Projects/N501-DiskInfoServer/DiskData.h
+
+/home/raven/Projects/N501-DiskInfoServer/linux/nvme.h
+linux/types.h
+-
+
